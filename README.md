@@ -4,7 +4,7 @@
 
 Inspired by the Turing Machine: one simple rule that gives rise to universal computation. Here, that rule is `create_tool` — the agent writes its own tools at runtime, persists them, and uses them immediately. No pre-defined tool list, no static capabilities.
 
-## How It Works
+## Works Loop create-do
 
 ```
 User asks a question
