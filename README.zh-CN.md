@@ -1,13 +1,4 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 850336082563833_0/project_7650647351467639080-files/README.zh-CN.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 850336082563833#1781345005303
-    ReservedCode2: ""
----
 # Turing Agent
 
 > 一个以图灵为灵感的自生长 Agent，仅 100 行代码——唯一的内置工具是创造工具，所以理论上能做任何事。
@@ -136,5 +127,3 @@ Turing Agent 只有一个 `create_tool`，却可以理论上长出：
 MIT
 
 ---
-
-> 本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。

@@ -1,13 +1,4 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 850336082563833_0/project_7650647351467639080-files/README.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 850336082563833#1781344993308
-    ReservedCode2: ""
----
 # Turing Agent
 
 > A Turing-inspired self-growing agent in just 100 lines of code — its only built-in tool is creating tools, so theoretically it can do anything.
@@ -137,4 +128,3 @@ MIT
 
 ---
 
-> 本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。
