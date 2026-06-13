@@ -1,4 +1,3 @@
----
 # Turing Agent
 
 > A Turing-inspired self-growing agent in just 100 lines of code — its only built-in tool is creating tools, so theoretically it can do anything.
@@ -126,5 +125,4 @@ If this project helped you, consider buying me a coffee ☕
 
 MIT
 
----
 
